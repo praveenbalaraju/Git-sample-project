@@ -1,2 +1,3 @@
 # Git-sample-project
-practice purpose
+# practice purpose
+# example for git hub
