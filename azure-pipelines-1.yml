@@ -23,7 +23,7 @@ steps:
 
   displayName: 'Run a one-line script'
 
- script: |
+- script: |
 
     echo Add other tasks to build, test, and deploy your project.
 
